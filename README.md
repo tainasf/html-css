@@ -1,2 +1,2 @@
 # html+css
- meus estudos de html5 + css3
+ HTML5 + CSS3 studies and projects
